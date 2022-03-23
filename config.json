@@ -1,0 +1,21 @@
+{
+    "playlist": [
+        {
+            "filepath": "C:/Users/yanyi/Desktop/ss\\9a0f6bf79a3946753228c9ea3677689a.avi",
+            "filename": "9a0f6bf79a3946753228c9ea3677689a"
+        },
+        {
+            "filepath": "C:/Users/yanyi/Desktop/ss\\9b0e321eed069cdaae7f11ece57cb901.avi",
+            "filename": "9b0e321eed069cdaae7f11ece57cb901"
+        },
+        {
+            "filepath": "C:/Users/yanyi/Desktop/ss\\jihua26X_2163-63_m17_bianzhiyan_100.avi",
+            "filename": "jihua26X_2163-63_m17_bianzhiyan_100"
+        }
+    ],
+    "playCurrent": {
+        "index": 0,
+        "audio": 30,
+        "postion": 0
+    }
+}
