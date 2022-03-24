@@ -179,7 +179,7 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "中石油薄片标注系统"))
+        Form.setWindowTitle(_translate("Form", "视频标注系统"))
         self.pushButton_befor.setText(_translate("Form", "上一个"))
         # self.pushButton_5.setText(_translate("Form", "减速0.2"))
         self.pushButton_6.setText(_translate("Form", "上一帧"))
